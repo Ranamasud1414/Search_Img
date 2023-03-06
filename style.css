@@ -446,7 +446,7 @@ ul li a:hover {
     position: absolute;
     z-index: 2;
     left: 60%;
-    top: -5px;
+    top: -15px;
     transition: none !important;
     transform: none !important;
   }
@@ -456,7 +456,7 @@ ul li a:hover {
     position: absolute;
     z-index: 2;
     right: 60%;
-    top: -5px;
+    top: -15px;
     transition: none !important;
     transform: none !important;
   }
